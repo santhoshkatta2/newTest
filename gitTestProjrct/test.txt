@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 changes for HIS-132
+=======
+this is middle of something
+
+change for HIS-122 
+>>>>>>> Stashed changes
